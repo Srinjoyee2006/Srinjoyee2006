@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Srinjoyee2006&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🌟 About Me
-- 🎓 **BTech Student** | Passionate about **DSA, Full-Stack Development ,GenAI & AI/ML**
+- 🎓 **BTech Student** | Passionate about **DSA, GenAI & AI/ML**
 - 💡 **Currently Learning:** **DSA, OpenCV, MySQL, Generative AI**
 - 🤝 **Excited to collaborate with innovative people for hackathons and projects!**
 - 😄 **Pronouns:** She/her 
